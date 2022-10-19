@@ -1,0 +1,40 @@
+#NFT{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h1{
+    font-size: 70px;
+    color: aqua;
+    text-decoration: underline double rgb(33, 33, 251) 5px;
+}
+body{
+    background-color: rgb(93, 93, 255);
+}
+h3{
+    font-size: 40px;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10%; 
+    margin-bottom: 1%;
+}
+#CryptoPunks{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+#monkey{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+#Thanks{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
